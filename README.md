@@ -23,4 +23,4 @@ Or from the command line: `npx vercel --prod`.
   `<div class="frame"><img src="photos/your-file.jpg" width="1200" height="1500" alt="Describe the photo"></div>`.
   Use images about 1200 px wide or larger, cropped near 4:5.
 - **Email:** change both the `href` and the text of the link inside `#contact`. It is currently the placeholder `hello@serenalee.com`.
-- **Colors:** the palette lives in the `:root` block at the top of the `<style>` tag.
+- **Colors:** the dark palette lives in the `:root` block at the top of the `<style>` tag.
